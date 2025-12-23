@@ -9,7 +9,7 @@ Ideas:
 - /deaf on/off (hide chat messages)
 - /drunk on/off (screen effect overlay)
 - /bound on/off (disable move controls)
-- /leash on/off (force follow)
+- /leash target (force follow)
 - /cage on/off (can't leave room/house)
 
 Safe keybind by default on END
