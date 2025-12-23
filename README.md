@@ -3,7 +3,7 @@
 WIP
 
 Ideas:
-- /muffled on/off (muffled chat)
+- /muffle on/off (muffled chat)
 - /blind full/percentage/off (black overlay with opacity)
 - /mute on/off (disable chat input)
 - /deaf on/off (hide chat messages)
