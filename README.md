@@ -3,13 +3,14 @@
 WIP
 
 Ideas:
-- /muffle on/off (muffled chat)
-- /blind full/percentage/off (black overlay with opacity)
-- /mute on/off (disable chat input)
-- /deaf on/off (hide chat messages)
-- /drunk on/off (screen effect overlay)
-- /bound on/off (disable move controls)
-- /leash target (force follow)
-- /cage on/off (can't leave room/house)
+- /sc muffle on/off (muffled chat)
+- /sc blind full/percentage/off (black overlay with opacity)
+- /sc mute on/off (disable chat input)
+- /sc deaf on/off (hide chat messages)
+- /sc drunk on/off (screen effect overlay)
+- /sc bound on/off (disable move controls)
+- /sc leash target (force follow)
+- /sc cage on/off (can't leave room/house)
+- /sc fpv on/off (
 
 Safe keybind by default on END
