@@ -23,6 +23,6 @@ Ideas:
 - /confine (on|toggle|off) - can't leave room/house, defaults to on
 - /fpv (on|toggle|off) - force first person view, defaults to on
 
-Split in 2 plugons ControlCommands (/cc) and dominium
+Split in 2 plugons ControlCommands and dominium
 
 Safe keybind by default on END (configuration window)
