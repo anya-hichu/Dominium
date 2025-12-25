@@ -19,7 +19,7 @@ Don't need to be installed on both like puppetmaster but command viewer makes it
 - /deaf (on|toggle|off) - hide chat messages, defaults to on
 - /drunk (on|toggle|off) - screen effect overlay, defaults to on
 - /restrain (on|toggle|off) - disable move controls, defaults to on
-- /trail target (on|toggle|off) - force follow, defaults to on (quote support)
+- /trail target (on|toggle|off) - force follow, defaults to on
 - /confine (on|toggle|off) - can't leave room/house, defaults to on
 - /fpv (on|toggle|off) - force first person view, defaults to on
 - /slow (on|toggle|off) - force walk mode
