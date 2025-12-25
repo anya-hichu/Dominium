@@ -18,10 +18,11 @@ Ideas:
 - /mute (on|toggle|off) - disable chat input, defaults to on
 - /deaf (on|toggle|off) - hide chat messages, defaults to on
 - /drunk (on|toggle|off) - screen effect overlay, defaults to on
-- /bound (on|toggle|off) - disable move controls, defaults to on
+- /helpless (on|toggle|off) - disable move controls, defaults to on
 - /follow target (on|toggle|off) - force follow, defaults to on (quote support)
 - /confine (on|toggle|off) - can't leave room/house, defaults to on
 - /fpv (on|toggle|off) - force first person view, defaults to on
+- /slow (on|toggle|off) - force walk mode
 
 Split in 2 plugons ControlCommands and dominium
 
