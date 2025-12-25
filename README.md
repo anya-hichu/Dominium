@@ -6,7 +6,7 @@ Ideas:
 
 Alias /dominium to /do (possibility to disable)
 
-- /do (enable|disable)
+- /do (enable|stop|disable)
 - /do muffle (on|toggle|off) - muffled chat, defaults to on
 - /do blind (on|toggle|percentage|off) - black overlay with opacity, defaults to on
 - /do mute (on|toggle|off) - disable chat input, defaults to on
