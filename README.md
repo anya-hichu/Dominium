@@ -1,8 +1,11 @@
-# SubCommands
+# ControlCommands
 
 WIP
 
 Ideas:
+
+Alias /controlcommands to /cc (possibility to disable)
+
 - /cc muffle (on|off) (muffled chat, defaults to on)
 - /cc blind (on|percentage|off) (black overlay with opacity, defaults to on)
 - /cc mute (on|off) (disable chat input, defaults to on)
@@ -13,4 +16,4 @@ Ideas:
 - /cc confine (on|off) (can't leave room/house, defaults to on)
 - /cc fpv (on|off) (force first person view, defaults to on)
 
-Safe keybind by default on END
+Safe keybind by default on END (configuration window)
