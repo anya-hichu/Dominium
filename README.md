@@ -19,6 +19,5 @@ Alias /controlcommands to /cc (possibility to disable)
 
 Safe keybind by default on END (configuration window)
 
-Other friend plugin?
 - Puppet master like with ACL (token) where can send base64 gzipped "command list" with id/names/alias to share (copy-paste manual operation) or generated file - Token gives permission to specific commands to a specific person (character name/world) for specific duration or until invalidated
 - Custom syntax like <cc.3> or alias (button to automatically add in chat or copy in clipboard)
