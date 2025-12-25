@@ -19,5 +19,5 @@ Alias /dominium to /do (possibility to disable)
 
 Safe keybind by default on END (configuration window)
 
-- Puppet master like with ACL (token) where can send base64 gzipped "command list" with id/names/alias to share (copy-paste manual operation, possibility to make it look like link params) or generated file - Token gives permission to specific commands to a specific person (character name/world) for specific duration or until invalidated
+- Puppet master like with ACL (token) where can send base64 gzipped "command list" with id/names/alias to share (copy-paste manual operation, possibility to make it look like data:application/zip;base64,xxx or link) or generated file - Token gives permission to specific commands to a specific person (character name/world) for specific duration or until invalidated
 - Custom syntax like <do.3> or alias (button to automatically add in chat or copy in clipboard)
