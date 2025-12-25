@@ -13,7 +13,6 @@ Don't need to be installed on both like puppetmaster but command viewer makes it
 
 # Control Commands
 
-- /dominium (enable|cancel|disable)
 - /muffle (on|toggle|off) - muffled chat, defaults to on
 - /blind (on|toggle|percentage|off) - black overlay with opacity, defaults to on
 - /mute (on|toggle|off) - disable chat input, defaults to on
